@@ -26,7 +26,7 @@ void print(int *a,int n)
         cout<<endl;
     }
 }
-///////////////////
+///////////////////////
 void dijkstra(int *a,int n,int s)
 {
     int i,j;
