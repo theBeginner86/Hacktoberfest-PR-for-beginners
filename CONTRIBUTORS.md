@@ -9,3 +9,4 @@ Get in touch with the Contributors-
 - @SmarthGuy
 - @Ankit-Gupta18
 - @pranjay-poddar
+- @theBeginner86
